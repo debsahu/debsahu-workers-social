@@ -1,0 +1,8 @@
+name = "link-tree"
+type = "webpack"
+
+account_id = "b4e31d913b33ee72737b4e3e89f42007"
+workers_dev = true
+route = "www.debashishsahu.com/social"
+zone_id = ""
+compatibility_date = "2021-09-21"
